@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey! I'm Kevin 👋
 
-<!--
-**kevinkip/kevinkip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front-End', 'Back-End' and 'Full-Stack' development skills and expand my knowledge.
 
-Here are some ideas to get you started:
+- 🌱 I’m learning new React.js and how to implemenet it into all my projects.
+- 🌱 I’m currently learning how to make a Super Smash Bros themed Tic-Tac-Toe game.
+- 💬 Ask me anything!
+- ⚡ Fun fact: Fredric Baur, the inventor of the Pringles can, is buried in one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My LinkedIn
+[![Kevin Kipkemboi Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/callhimkev/)
+
+### 💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+### 🧰 Frameworks/Libraries/Databases
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,angular,jquery)](https://skillicons.dev)
+
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,webpack)](https://skillicons.dev)
+
+### GitHub stats
+![Kevinkip's GitHub stats](https://github-readme-stats.vercel.tech/api?username=kevinkip&show_icons=true&theme=react&&hide_border=true)
