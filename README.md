@@ -20,4 +20,4 @@ I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front
 [![My Skills](https://skillicons.dev/icons?i=git,webpack)](https://skillicons.dev)
 
 ### GitHub stats
-![Kevinkip's GitHub stats](https://github-readme-stats.vercel.tech/api?username=kevinkip&show_icons=true&theme=react&&hide_border=true)
+[![kevinkip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkip)](https://github.com/kevinkip/github-readme-stats)
