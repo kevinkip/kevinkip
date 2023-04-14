@@ -1,4 +1,4 @@
-### Greetings traveler, and welcome to my page. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="36px" height="36px" />
+### Greetings traveler, and welcome to my page. 
 
 I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front-End', 'Back-End' and 'Full-Stack' development skills and expand my knowledge.
 
