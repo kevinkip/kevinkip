@@ -7,9 +7,6 @@ I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front
 - 💬 Ask me anything!
 - ⚡ Fun fact: Fredric Baur, the inventor of the Pringles can, is buried in one.
 
-### My LinkedIn 
-[![Kevin Kipkemboi Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/callhimkev/) 
-
 ### 💻 Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
@@ -18,6 +15,9 @@ I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front
 
 ### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,webpack)](https://skillicons.dev)
+
+### My LinkedIn 
+[![Kevin Kipkemboi Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/callhimkev/) 
 
 ### GitHub stats
 [![kevinkip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkip)](https://github.com/kevinkip/github-readme-stats)
