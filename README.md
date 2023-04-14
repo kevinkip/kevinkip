@@ -1,4 +1,4 @@
-### Greetings traveler, and welcome to my page. :raised_back_of_hand:
+### Greetings traveler, and welcome to my page. :slightly_smiling_face::raised_back_of_hand:
 
 I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front-End', 'Back-End' and 'Full-Stack' development skills and expand my knowledge.
 
