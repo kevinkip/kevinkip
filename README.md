@@ -1,9 +1,5 @@
 ### Greetings traveler, and welcome to my page. :slightly_smiling_face::raised_back_of_hand:
 
-I'm currently learning 'Javascript' with 'The Odin Project' to improve my 'Front-End', 'Back-End' and 'Full-Stack' development skills and expand my knowledge.
-
-- 🌱 I’m learning new React.js and how to implemenet it into all my projects.
-- 🌱 I’m currently learning how to make a Super Smash Bros themed Tic-Tac-Toe game.
 - 💬 Ask me anything!
 - ⚡ Fun fact: Fredric Baur, the inventor of the Pringles can, is buried in one.
 
