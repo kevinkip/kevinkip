@@ -14,6 +14,3 @@
 
 ### My LinkedIn 
 [![Kevin Kipkemboi Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/callhimkev/) 
-
-### GitHub stats
-[![kevinkip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkip)](https://github.com/kevinkip/github-readme-stats)
